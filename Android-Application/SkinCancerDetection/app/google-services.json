@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "186205196282",
+    "project_id": "skincancerhackathon",
+    "storage_bucket": "skincancerhackathon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186205196282:android:1eb507d9cda851b1685e43",
+        "android_client_info": {
+          "package_name": "com.ishaanbhela.skincancerdetection"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGAtdo4refo16whIXiMVW_Z_xY8rL75Ig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

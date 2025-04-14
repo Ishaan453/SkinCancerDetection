@@ -1,0 +1,6 @@
+Pillow==10.4.0
+numpy==1.26.4
+torchcam==0.4.0
+google-generativeai==0.8.4
+matplotlib==3.9.2
+awslambdaric
