@@ -6,11 +6,13 @@
 
     <ImageView
         android:id="@+id/articleImage"
-        android:layout_width="150dp"
+        android:layout_width="220dp"
         android:layout_height="150dp"
         android:layout_margin="8dp"
-        android:scaleType="centerCrop"
+        android:scaleType="fitCenter"
         android:src="@mipmap/ic_launcher"
+        android:padding="10dp"
+        android:background="@drawable/image_border"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

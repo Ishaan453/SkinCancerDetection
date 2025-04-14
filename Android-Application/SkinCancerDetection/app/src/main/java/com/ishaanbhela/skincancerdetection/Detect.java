@@ -137,7 +137,7 @@ public class Detect extends AppCompatActivity {
         RequestQueue queue = Volley.newRequestQueue(this);
         JsonObjectRequest jsonObjectRequest = new JsonObjectRequest(
                 Request.Method.POST,
-                "URL",
+                "https://u5qc5kbpxuebrdrkhd26nwons40fysnc.lambda-url.ap-south-1.on.aws/",
                 jsonRequest,
                 response -> {
                     try {

@@ -8,6 +8,7 @@
     android:layout_height="match_parent"
     android:padding="24dp"
     android:background="#FAFAFA"
+
     tools:context=".Detect">
 
     <!-- Image Preview -->
